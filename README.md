@@ -2,6 +2,8 @@
 
 ## Project Summary Report: HR Analytics
 
+![power bi hr analytics](https://github.com/rohandc93/HR-analytics/assets/129202273/c9bb727a-41e3-45e3-b0a4-4f535562aa44)
+
 **Objective:** To analyze employee data and provide insights to improve working conditions, attendance, and leave policies.
 
 **Methodology:** The project involved collecting and analyzing data from various sources, including surveys, attendance records, and leave applications. We used statistical methods and data visualization tools to identify patterns and trends in the data.
